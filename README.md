@@ -33,7 +33,7 @@ Here is the live URL to Todo App: [Todo App](https://todo-qph3rfgsl-d3monvikings
 - localStorage API
 
 ### What I Learned
-While building the Todo App, I used various Javascript concepts like DOM, Events, Destructing, and localStorage API. Several CSS concepts like Grid, Flexbox, and Responsiveness were used in building the application.
+While building the Todo App, I used various Javascript concepts like DOM, Events, Destructuring, and localStorage API. Several CSS concepts like Grid, Flexbox, and Responsiveness were used in building the application.
 
 ### Continued Development
 After using localStorage in the project, I would like to explore more Web Storage APIs in my future project. 
