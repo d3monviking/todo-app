@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles-dark.css">
+  <title>Todo app</title>
+</head>
+<body>
+
+  <div class="container">
+    <div class="top">
+      <h1>TODO</h1>
+      <img src="images/icon-sun.svg" class = "theme">
+    </div>
+    <div class="inputTask task">
+      <label for="task"><span class="check"><img></span></label><input type="text" name = "task" placeholder="Create a new todo..."> 
+    </div>
+  
+    <div class="taskList">
+
+      <div class="list">
+
+      </div>
+      <div class="foot">
+        <div class = "items"></div>
+        <div class = "buffer"></div>
+        <div class = "renderOptions">
+          <span class = "all">All</span>
+          <span class = "active">Active</span>
+          <span class = "completed">Completed</span>
+        </div>
+        <div class ="clear-completed">Clear Completed</div>
+      </div>
+  </div>
+  </div>
+  <script src="script.js"> </script> 
+</body>
+</html>
